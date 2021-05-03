@@ -1,0 +1,23 @@
+package StudentManagementApp;
+
+public class Student {
+	private String firstName;
+	private String lastName;
+	private String gradeYear;
+	private String courses;
+	private int studentID;
+	private String tuitionBalance;
+	private static double courseCost = 600.0;
+	
+	//Constructor: User Name and year
+	
+	//Generate ID
+	
+	//Enroll in Courses
+	
+	//View Student Account Balance
+	
+	//Pay tuition
+	
+	//Show status
+}

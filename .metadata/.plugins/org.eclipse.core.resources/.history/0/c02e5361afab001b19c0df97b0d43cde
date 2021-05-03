@@ -1,0 +1,8 @@
+package StudentManagementApp;
+
+public class mainAppController {
+
+	public static void main(String[] args) {
+		
+	}
+}

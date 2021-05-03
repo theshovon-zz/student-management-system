@@ -1,0 +1,11 @@
+package StudentManagementApp;
+
+public class mainAppController {
+
+	public static void main(String[] args) {
+		
+		//Ask number of students to be added
+		
+		//Create specified number of students
+	}
+}
