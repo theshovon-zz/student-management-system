@@ -45,7 +45,7 @@ public class Student {
 		
 	}
 	
-	//Enroll in Courses
+	//Add  Courses
 	public void enroll() {
 		
 		System.out.println("Name: "); 
@@ -54,6 +54,7 @@ public class Student {
 		
 	}
 	
+	//Delete Courses
 	
 	//View Student Account Balance
 	
